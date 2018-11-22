@@ -1,0 +1,16 @@
+# Project information
+site_name: 'Home'
+site_description: 'Motoyuki OKI'
+site_author: 'Motoyuki OKI'
+site_url: 'http://gingi99.github.io/mypage'
+
+# Copyright
+copyright: 'Copyright (c) 2018'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme:
+  name : 'material'
+  palette:
+    primary: 'Deep Orange'
+    accent: 'indigo'
